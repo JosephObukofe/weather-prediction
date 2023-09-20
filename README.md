@@ -1,6 +1,6 @@
 # weather-prediction
 
-This Python script provides a way to "check the weather" in different cities while.
+This Python script provides a way to "check the weather" in different cities.
 
 ## Usage
 
