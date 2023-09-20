@@ -1,7 +1,5 @@
 # weather-prediction
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JosephObukofe/weather-prediction)
-
 This Python script provides a way to "check the weather" in different cities while.
 
 ## Usage
